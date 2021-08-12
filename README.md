@@ -2,7 +2,9 @@
 
 Hi! This is literally a brain dump for me. 
 
-I have been following [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) for quite some time... 2019 to be exact! However, I didn't have time to complete the course lol. 
+I have been following [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) for quite some time... 2019 to be exact! 
+
+However, I didn't have time to complete the course lol. 
 
 *Insert ***I am limited by the technology of my time*** jokes*
 
